@@ -44,13 +44,12 @@ def start(update,context):
     context.bot.send_message(chat_id=update.effective_chat.id,text=name)
 
     welcome = """
-Hi I'm Brainy Quote Bot
+Hi I'm Ragunath 
 
 Send /help for Help 
 
-Made With ❤️ In India By @Gowtham_2003
+Made With ❤️ In India By @Raguks
 
-Join @AlphaProjects for More Projects and Updates
 """
     context.bot.send_message(chat_id=update.effective_chat.id,text=
 welcome)
@@ -70,9 +69,8 @@ Type
 
 /donate To Donate Me (Still Not Added)
 
-if Any Issues Contact : @Gowtham_2003
+if Any Issues Contact : @Raguks
 
-A Part of @AlphaProjects 
 
 '''
     context.bot.send_message(chat_id=update.effective_chat.id,text=helpmessage)
@@ -83,7 +81,7 @@ Donate Feature Haven't Added Yet
 
 If You Want to Donate My Works 
 Contact Me :
-    Telegram : @Gowtham_2003 or @Gowtham2003
+    Telegram : @Raguks
 '''
     context.bot.send_message(chat_id=update.effective_chat.id,text=donate )
 
