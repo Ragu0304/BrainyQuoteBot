@@ -44,7 +44,7 @@ def start(update,context):
     context.bot.send_message(chat_id=update.effective_chat.id,text=name)
 
     welcome = """
-Hi I'm Ragunath 
+Hi I'm Ragu
 
 Send /help for Help 
 
