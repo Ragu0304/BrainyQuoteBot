@@ -69,7 +69,7 @@ Type
 
 /donate To Donate Me (Still Not Added)
 
-if Any Issues Contact : @Raguks
+if Any Issues Contact : @Ragukss
 
 
 '''
