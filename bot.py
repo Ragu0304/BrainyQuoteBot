@@ -48,7 +48,7 @@ Hi I'm Ragunath
 
 Send /help for Help 
 
-Made With ❤️ In India By @Raguks
+Made by : @ragukss
 
 """
     context.bot.send_message(chat_id=update.effective_chat.id,text=
@@ -81,7 +81,7 @@ Donate Feature Haven't Added Yet
 
 If You Want to Donate My Works 
 Contact Me :
-    Telegram : @Raguks
+    Telegram : @Ragukss
 '''
     context.bot.send_message(chat_id=update.effective_chat.id,text=donate )
 
